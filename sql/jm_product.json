@@ -1,0 +1,15 @@
+{
+  "jm_products_details": [
+    {
+      "pid": 1,
+      "cid": 1,
+      "atime": "适用时间",
+      "suit_people": "适用人群",
+      "price": "价格",
+      "prdcess": "挂号-全口检查-牙",
+      "ex_items": "附赠项目",
+      "detail_des": "详细介绍",
+      "prd_pic": "商品图片"
+    }
+  ]
+}
